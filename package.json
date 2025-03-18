@@ -1,0 +1,27 @@
+{
+  "name": "feedback-first",
+  "version": "1.0.1",
+  "description": "A React library that allows users to capture screenshots, annotate with drawings or text, and send instant feedback along with the page URL. Perfect for bug reporting, user feedback, or collaborative reviews.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ekamid"
+  },
+  "keywords": [
+    "feedback",
+    "react",
+    "package",
+    "feedback-first",
+    "quick-feedback"
+  ],
+  "author": "Ebrahim Khalil",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^19.0.11",
+    "react": "^19.0.0",
+    "typescript": "^5.8.2"
+  }
+}
